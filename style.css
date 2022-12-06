@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+
+}
+#tim{
+    background:linear-gradient(#f10909, rgb(200, 255, 0));
+}
+.Lee{
+    list-style:none;
+    position:fixed;
+    top:0px;
+    z-index:10;
+    cursor:pointer ;
+    background:lime;
+margin-top:0%;
+width: 100%;
+    
+}
+.monkey{
+display:inline;
+font-size: 25px;
+padding-right: 20px;
+padding-left: 20px;
+}
